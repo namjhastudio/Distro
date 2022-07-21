@@ -1336,8 +1336,8 @@ $(document).ready(function (_0x3d8067) {
     });
 });
 $(document).ready(function () {
-    if ($('#credit,.credit').attr('href') != 'https://namjhastudio.shop') {
-        window.location.href = 'https://namjhastudio.shop';
+    if ($('#credit,.credit').attr('href') != 'https://www.namjhastudio.shop') {
+        window.location.href = 'https://www.namjhastudio.shop';
     }
 });
 var arr_pembayaran = tw_payment;
